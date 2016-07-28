@@ -1,4 +1,4 @@
-The qubit sequencer is no longer being actively developed here. To
+The qubit server is no longer being actively developed here. To
 avoid confusion it has been removed from master.
 
 The latest binary release (0.7.1) is available via bintray:
